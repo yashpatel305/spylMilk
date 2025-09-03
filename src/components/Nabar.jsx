@@ -12,12 +12,12 @@ const Navbar = () => {
     const defaultImage = '/images/default.webp';
 
     const imageMap = {
-        SHOP: '/images/shop.png',
+        'SHOP': '/images/shop.png',
         'FIND IN STORES': '/images/fit.png',
         'ABOUT US':'/images/about.webp',
         'TASTY TALKS': 'images/tt.png',
-        PROGRAMS: 'images/contact.png',
-        CONTACTS: 'images/pro.png',
+        'PROGRAMS': 'images/contact.png',
+        'CONTACTS': 'images/pro.png',
     };
 
     // Animate menu open/close
